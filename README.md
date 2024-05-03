@@ -18,9 +18,9 @@ Chat rooms change as your battery percentage goes down! Feel the tension rising 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/SSyfw1.png)
-![Screenshot 2](screenshots/SSyfw2.png)
-![Screenshot 3](screenshots/SSyfw3.png)
+![Screenshot 1](SSyfw1.png)
+![Screenshot 2](SSyfw2.png)
+![Screenshot 3](SSyfw3.png)
 
 ## Technologies Used
 
