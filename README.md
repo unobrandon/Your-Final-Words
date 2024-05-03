@@ -1,5 +1,7 @@
 # Your Final Words
 
+<img src="SSyfw1.png" alt="Screenshot 1" width="250"> <img src="SSyfw2.png" alt="Screenshot 2" width="250"> <img src="SSyfw3.png" alt="Screenshot 3" width="250">
+
 Your Final Words grants you EXCLUSIVE access only available for people who have 5% battery or less!
 
 ## Description
@@ -15,10 +17,6 @@ Chat rooms change as your battery percentage goes down! Feel the tension rising 
 - Explore final words in different chat rooms
 - Real-time chat experience
 - Dynamic chat room changes based on battery percentage
-
-## Screenshots
-
-<img src="SSyfw1.png" alt="Screenshot 1" width="250"> <img src="SSyfw2.png" alt="Screenshot 2" width="250"> <img src="SSyfw3.png" alt="Screenshot 3" width="250">
 
 ## Technologies Used
 
