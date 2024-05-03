@@ -1,0 +1,6 @@
+framework module Pods_FinalWordsChat {
+  umbrella header "Pods-FinalWordsChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
